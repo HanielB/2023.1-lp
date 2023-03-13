@@ -8,7 +8,7 @@ title: Topic 01 - SML introduction
 Mar 13
 : **Course overview**
   : [Grading]({{ site.baseurl }}{% link grading.md %}),
-  : [Slides]({{ site.baseurl }}{% link _lessons/00-course_intro/00-course-overview.pdf %})
+  : [Slides]({{ site.baseurl }}{% link _lessons/00-course_intro/00-course-intro.pdf %})
 
 Mar 13
 : [**SML introduction**]({{ site.baseurl }}{% link _lessons/01-sml-intro/sml-intro.md %})
