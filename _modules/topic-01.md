@@ -17,3 +17,11 @@ Mar 13
 Mar 15
 : [**Pattern matching in SML**]({{ site.baseurl }}{% link _lessons/02-pattern-matching/pattern-matching.md %})
   : [Old recorded lecture](https://www.youtube.com/playlist?list=PLeIbBi3CwMZwDfs__URUz4wudPCuDuIS2)
+
+Mar 20
+: [**Algebraic datatypes in SML**]({{ site.baseurl }}{% link _lessons/03-adts/adts.md %})
+  : [Old recorded lecture](https://www.youtube.com/playlist?list=PLeIbBi3CwMZzlXW1WrTxseddFxgmoC3-C)
+
+Mar 22
+: [**Polymorphism**]({{ site.baseurl }}{% link _lessons/04-polymorphism/polymorphism.md %})
+  : [Old recorded lecture](https://www.youtube.com/playlist?list=PLeIbBi3CwMZwmgIVh73e1zWAvMfxiuZkR)
