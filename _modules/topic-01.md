@@ -25,3 +25,7 @@ Mar 20
 Mar 22
 : [**Polymorphism**]({{ site.baseurl }}{% link _lessons/04-polymorphism/polymorphism.md %})
   : [Old recorded lecture](https://www.youtube.com/playlist?list=PLeIbBi3CwMZwmgIVh73e1zWAvMfxiuZkR)
+
+Mar 27
+: [**Higher-order functions**]({{ site.baseurl }}{% link _lessons/05-ho-functions/ho-functions.md %})
+  : [Old recorded lecture](https://www.youtube.com/playlist?list=PLeIbBi3CwMZyLPWOzBEkBu15ng1F2eIvX)
