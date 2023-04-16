@@ -16,3 +16,14 @@ Apr 5
 Apr 10
 : [**Closures**]({{ site.baseurl }}{% link _lessons/06-languages/closures.md %})
   : [Old recorded lecture](https://www.youtube.com/playlist?list=PLeIbBi3CwMZwsNyF3Pt9n-sc6U_m_7Qia)
+
+Apr 12
+: [**Formal semantics**]({{ site.baseurl }}{% link _lessons/06-languages/formal-semantics.md %}): Operational semantics
+  : [Old recorded lecture](https://youtube.com/playlist?list=PLeIbBi3CwMZziVG93gcNT__X_xmmtM8ir)
+
+Apr 17
+: [**Program equivalence as SMT**]({{ site.baseurl }}{% link _lessons/06-languages/formal-semantics.md %})
+
+Apr 19
+: [**Formal semantics**]({{ site.baseurl }}{% link _lessons/06-languages/formal-semantics.md %}): Lambda calculus
+  : [Old recorded lecture](https://youtube.com/playlist?list=PLeIbBi3CwMZxFVZX1yGTiGiJO7gWd4YJ5)
