@@ -27,3 +27,6 @@ Apr 17
 Apr 19
 : [**Formal semantics**]({{ site.baseurl }}{% link _lessons/06-languages/formal-semantics.md %}): Lambda calculus
   : [Old recorded lecture](https://youtube.com/playlist?list=PLeIbBi3CwMZxFVZX1yGTiGiJO7gWd4YJ5)
+
+Apr 24
+: **Exam 1**
