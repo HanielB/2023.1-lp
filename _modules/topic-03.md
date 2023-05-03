@@ -10,6 +10,9 @@ Apr 26
   : [Pre-recorded lecture 1](https://youtu.be/wSnCxSrHcho) (by Prof. Fernando Pereira)
   : [Pre-recorded lecture 2](https://youtu.be/0eJk49Qqvxk) (by Prof. Fernando Pereira)
 
-May 3, 8
+May 3
+: **Activation records**
+
+May 8, 11
 : [**Memory management**]({{ site.baseurl }}{% link _lessons/08-memory/memory.md %})
   : [Old recorded lectures](https://www.youtube.com/playlist?list=PLeIbBi3CwMZxEik6SHGVkc1x1VtTJBsaR)
