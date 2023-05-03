@@ -11,7 +11,7 @@ Apr 26
   : [Pre-recorded lecture 2](https://youtu.be/0eJk49Qqvxk) (by Prof. Fernando Pereira)
 
 May 3
-: **Activation records**
+: [**Activation records**]({{ site.baseurl }}{% link _lessons/08-memory/activation-records.md %})
 
 May 8, 11
 : [**Memory management**]({{ site.baseurl }}{% link _lessons/08-memory/memory.md %})
