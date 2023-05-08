@@ -12,6 +12,7 @@ title: Memory management
 ## Readings
 
 - Chapter 14 of textbook.
+ [Class notes]({{ site.baseurl }}{% link _lessons/08-memory/memory.pdf %}) on memory management.
 - [Numerous memory management techniques](http://www.ibm.com/developerworks/linux/library/l-memory/)
 - [Garbage collection](http://en.wikipedia.org/wiki/Garbage_collection_(computer_science))
 - [Valgrind](http://en.wikipedia.org/wiki/Valgrind)
