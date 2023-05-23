@@ -23,11 +23,11 @@ May 15, 17
   : [Old recorded lecture (OO)](https://www.youtube.com/playlist?list=PLeIbBi3CwMZwZ3_74fYH6KVaUb_q2tG5c)
 
 May 22
-: Project Tutorial
+: [**Error Handling**]({{ site.baseurl }}{% link _lessons/10-error/error-handling.md %})
+  : [Old recorded lectures](https://www.youtube.com/playlist?list=PLeIbBi3CwMZyTxht1aVqX2GC10Ol8qTVG)
 
 May 24
-: Error Handling
-  : [Old recorded lectures](https://www.youtube.com/playlist?list=PLeIbBi3CwMZyTxht1aVqX2GC10Ol8qTVG)
+: Project Tutorial
 
 May 29, 31
 : Parameter passing
