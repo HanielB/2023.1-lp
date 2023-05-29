@@ -28,7 +28,9 @@ May 22
 
 May 24
 : Project Tutorial
+  : [Old recorded tutorial (part 1)](https://youtu.be/Ty7H3H2bjgI)
+  : [Old recorded tutorial (part 2)](https://youtu.be/NilXhYg-SRA)
 
 May 29, 31
-: Parameter passing
+: [**Parameter passing**]({{ site.baseurl }}{% link _lessons/11-parameters/parameters.md %})
   : [Old recorded lectures](https://www.youtube.com/playlist?list=PLeIbBi3CwMZxCfI53xXJQdDkCF0YbgGbm)
